@@ -1,2 +1,4 @@
 # trial-dump
-A repo for all my trial works. &lt;br> Author - Abhishek Parihar
+A repo for all my trial works. 
+<br> 
+Author - Abhishek Parihar
