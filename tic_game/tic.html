@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="tic.css">
+</head>
+<body>
+    <div class="video-background">
+        <video autoplay muted loop id="background-video">
+            <source src="images/back_anime.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div id="start_game">
+        <img src="images/car.png" id="car" alt="car_image">
+        <img src="images/tic_tac_toe_text.png" id="tic_tac_toe_text" alt="tic_tac_toe_text">
+    </div>
+    <div class="container">
+        <div id="players">
+            <div id="player1">
+                <h2>Player 1 ( O )</h2>
+                <div id="imagebox">
+                    <img src="images/modi.jpg" class="image" id="player1_img" alt="X">
+                    <h2 id="choose_player_1">Choose Your Character</h2>
+                </div>
+                <input type="text" id="player1Name" placeholder="Player 1">
+            </div>
+            <div id="player2">
+                <h2>Player 2 ( X )</h2>
+                <div id="imagebox">
+                    <img src="images/char2.jpg" class="image" id="player2_img" alt="O">
+                    <h2 id="choose_player_2">Choose Your Character</h2>
+                </div>
+                <input type="text" id="player2Name" placeholder="Player 2">
+            </div>
+        </div>
+        <div id="problem_div">
+            <p id="problem_text"></p>
+        </div>
+        <button id="Submit">Submit</button>
+    </div>
+    <div id="sidebar">
+        <div id="characters">
+            <img src="images/modi.jpg" class="character" id="modi" alt="character1">
+            <img src="images/char2.jpg" class="character" id="char2" alt="character2">
+            <img src="images/char3.jpg" class="character" id="char3" alt="character3">
+            <img src="images/char4.jpg" class="character" id="char4" alt="character4">
+            <img src="images/char5.jpg" class="character" id="char5" alt="character5">         
+        </div>
+        <div id="close_sidebar"><h4>X</h4></div>
+    </div>
+    <script src="tic.js"></script>
+</body>
+</html>
