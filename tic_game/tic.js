@@ -58,7 +58,7 @@ submit.addEventListener("click", () => {
     problem_text.innerText = "* smart";
   } else {
     problem_text.innerText = "go ahead";
-    window.location.href = "/game/game.html";
+    window.location.href = "/trial-dump/tic_game/game/game.html";
     sessionStorage.setItem("player1_img", current_player1);
     sessionStorage.setItem("player2_img", current_player2);
     sessionStorage.setItem("player1Name", player1Name.value);
