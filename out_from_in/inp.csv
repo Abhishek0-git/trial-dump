@@ -1,0 +1,11 @@
+class,1,2,3,4,5,6,7,8
+XII,"hindi elec.,-,BLG","hindi elec.,1-5,BLG>life skill,6,BLG","geography,-,HS","geography,1-5,HS>life skill,6,HS","english,-,MJ","history,-,KKM","history,1-5,KKM>life skill,6,KKM","hindi comp.,-,BLG"
+XI,"history,-,KKM","history,1-4,KKM>political sci.,5-6,KKM","hindi comp.,-,ALM","english,-,MJ","hindi elec.,-,BLG","hindi elec.,1-4,BLG>life skill,5-6,BLG","geography,-,HS","geography,1-4,HS>political sci.,5,HS>life skill,6,HS"
+X,"hindi,-,ALM","english,-,MJ","maths,-,BLK","science,-,MKJ","So.Sci.,-,KKM","sanskrit,1-5,DCT>art and edu.,6,DCT","COMP,1-2,MJ>health edu.,3-4,MJ>political sci.,5-6,MJ","science,1-2,MKJ>maths,3-4,BLK>So.Sci.,5-6,KKM"
+IX,"english,-,MJ","science,-,MKJ","sanskrit,1-5,DCT>art and edu.,6,DCT","So.Sci.,-,GRM","maths,-,BLK","hindi,-,ALM","COMP,1-2,DCT>health edu.,3-4,MJ>political sci.,5-6,MJ","maths,1-2,BLK>So.Sci.,3-4,KKM>science,5-6,MKJ"
+VIII,"sanskrit,-,DCT","health edu./SUPW/art and edu.,-,HM","So.Sci.,-,GRM","maths,-,BLK","science,-,MKJ","english,-,MJ","hindi,-,ALM","library,-,GRM"
+VII,"So.Sci.,-,GRM","sanskrit,-,DCT","english,-,RT","health edu./SUPW/art and edu.,-,HM","hindi,-,ALM","science,-,MKJ","maths,-,BLK","library,-,HM"
+VI,"maths,-,BLK","hindi,-,GRM","library,-,- ","english,-,RT","So.Sci.,-,GRM","health edu./SUPW/art and edu.,-,RKL","science,-,MKJ","sanskrit,-,DCT"
+V,"maths,-,RT","maths,1-3,RT>health edu.,4-6,RT","hindi,-,SLM","hindi,-,SLM","english,-,HM","SUPW,1-4,SLM>art and edu.,5-6,SLM","env. studies,-,SKG","env. studies,1-3,SKG>health edu.,4,SKG>art and edu.,5-6,SKG"
+III and IV,"hindi,-,SLM","hindi,-,SLM","english,-,HM","env. studies,-,SKG","maths,1-3,RT>SUPW,4-6,RKL","maths,-,RT","env. studies,1-3,HM>health edu.,4-6,HM","SUPW,1,SLM>health edu.,2,SLM>art and edu.,3-6,SLM"
+I and II,"english,-,HM","env. studies,-,SKG","maths,-,RKL","maths,-,RKL","hindi,-,SKG","hindi,-,SKG","SUPW,1-3,RKL>art and edu.,4-6,RKL","health edu.,-,RKL"
